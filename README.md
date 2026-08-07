@@ -28,7 +28,7 @@ A modern and beauty landing page built with **HTML5** & **CSS3**. Designed with 
 ## 💕 Project Structure
 
 ```bash
-Benefity/
+Benefit/
 │── index.html
 │── css/
 │   └── style.css
@@ -62,24 +62,20 @@ Then open `index.html` in your favorite browser.
 
 ## 💕 Live Demo
 
-🔗 **Website:** *(Add your live demo link here)*
+🔗 **Website:** 
 
-Example:
 
-https://your-demo-link.com
+
+https://melinajdt.github.io/benefit/
 
 ---
 
 ## 💗 Author
 
-**Your Name**
+melina jodat
 
 GitHub: https://github.com/melinajdt
 
 ---
 
-## 🩷 Support
 
-If you enjoyed this project, consider giving it a **⭐ Star**.
-
-Made with 💖 for beauty lovers.
